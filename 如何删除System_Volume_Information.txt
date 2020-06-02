@@ -1,0 +1,1 @@
+使用键盘的快捷键“Win+R”将“运行”对话窗口唤出，然后在将命令“cmd”录入到“运行”窗口中后点击键盘的回车键，就可以将“命令提示符”窗口界面进行打开，然后将命令cacls “System Volume Information” /e /g everyone:f && rd /s /q “System Volume Information”输入到命令提示符的窗口界面中并点击回车键
